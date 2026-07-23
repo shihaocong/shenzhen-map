@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>深圳园区班车路线</title>
+    <link
+      id="leaflet-css"
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      crossorigin="anonymous"
+      onerror="this.dataset.failed = 'true'"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260723-2" />
+    <script
+      id="leaflet-script"
+      defer
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      crossorigin="anonymous"
+    ></script>
+    <script defer src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
+    <script defer src="./app.js?v=20260723-2"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <h1>深圳园区班车路线</h1>
+        </div>
+        <div class="network-metrics" aria-label="线路数据概览">
+          <span><strong id="route-count">--</strong> 条线路</span>
+          <span class="metric-divider" aria-hidden="true"></span>
+          <span><strong id="stop-count">--</strong> 个站点</span>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <aside id="route-panel" class="route-panel" aria-label="班车线路列表">
+          <div class="drawer-grip" aria-hidden="true"></div>
+          <div class="panel-header">
+            <div class="panel-heading">
+              <h2 id="panel-title">班车线路</h2>
+              <p id="panel-summary">正在读取线路数据</p>
+            </div>
+            <button
+              id="drawer-toggle"
+              class="icon-button drawer-toggle"
+              type="button"
+              aria-controls="route-panel-body"
+              aria-expanded="false"
+              aria-label="展开线路列表"
+            >
+              <i data-lucide="chevron-up" aria-hidden="true"></i>
+            </button>
+          </div>
+
+          <div id="route-panel-body" class="panel-body">
+            <div class="status-legend" aria-label="线路方向图例">
+              <span><i id="inbound-legend" class="legend-line legend-line-inbound" aria-hidden="true"></i>上班 · 深色</span>
+              <span><i id="outbound-legend" class="legend-line legend-line-outbound" aria-hidden="true"></i>下班 · 浅色</span>
+            </div>
+            <ul id="route-list" class="route-list" aria-live="polite">
+              <li class="route-skeleton" aria-hidden="true"><i></i><span></span></li>
+              <li class="route-skeleton" aria-hidden="true"><i></i><span></span></li>
+              <li class="route-skeleton" aria-hidden="true"><i></i><span></span></li>
+              <li class="route-skeleton" aria-hidden="true"><i></i><span></span></li>
+            </ul>
+          </div>
+        </aside>
+
+        <section class="map-region" aria-label="深圳班车路线地图">
+          <div id="map"></div>
+          <div id="map-status" class="map-status" role="status" aria-live="polite">
+            <div class="status-copy">
+              <span class="loading-ring" aria-hidden="true"></span>
+              <div>
+                <strong>正在加载深圳地图</strong>
+                <span>正在准备线路与站点</span>
+              </div>
+            </div>
+          </div>
+          <div id="map-notice" class="map-notice" role="status" hidden>
+            <span id="map-notice-text"></span>
+            <button id="tile-retry" type="button">重试</button>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

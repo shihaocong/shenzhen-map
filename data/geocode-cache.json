@@ -1,0 +1,2899 @@
+{
+  "schemaVersion": 1,
+  "provider": {
+    "name": "Nominatim",
+    "endpoint": "https://nominatim.openstreetmap.org/search",
+    "attribution": "OpenStreetMap contributors",
+    "coordinateSystem": "WGS84"
+  },
+  "stops": {
+    "stop-467d027738": {
+      "id": "stop-467d027738",
+      "rawName": "滨海之窗西南门",
+      "normalizedName": "滨海之窗西南门",
+      "aliases": [
+        "滨海之窗西南门"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "滨海之窗西南门",
+      "lat": 22.5242382,
+      "lng": 113.9334095,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.521206,
+      "sourceLng": 113.938275
+    },
+    "stop-1b07b10d85": {
+      "id": "stop-1b07b10d85",
+      "rawName": "科苑南路&高新南一道路口",
+      "normalizedName": "科苑南路与高新南一道路口",
+      "aliases": [
+        "科苑南路&高新南一道路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "科苑南路&高新南一道路口",
+      "lat": 22.5359172,
+      "lng": 113.9424248,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.5329,
+      "sourceLng": 113.9473
+    },
+    "stop-8c28484530": {
+      "id": "stop-8c28484530",
+      "rawName": "大冲1公交站后面路边",
+      "normalizedName": "大冲公交站",
+      "aliases": [
+        "大冲1公交站后面路边"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "大冲, 深圳市, 广东省",
+      "lat": 22.5455591,
+      "lng": 113.9492886,
+      "confidence": 0.968,
+      "status": "resolved",
+      "displayName": "大冲, 大冲社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5179092580,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-5fc7639f00": {
+      "id": "stop-5fc7639f00",
+      "rawName": "茶光路口",
+      "normalizedName": "茶光路口",
+      "aliases": [
+        "茶光路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "茶光路口",
+      "lat": 22.5771004,
+      "lng": 113.9494129,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.5741,
+      "sourceLng": 113.9543
+    },
+    "stop-a45c8b3381": {
+      "id": "stop-a45c8b3381",
+      "rawName": "九祥岭2公交站",
+      "normalizedName": "九祥岭公交站",
+      "aliases": [
+        "九祥岭2公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "九祥岭, 深圳市, 广东省",
+      "lat": 22.5872314,
+      "lng": 113.951849,
+      "confidence": 0.924,
+      "status": "resolved",
+      "displayName": "九祥岭村, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 237807338,
+      "candidateCount": 8,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-2f5c83aadd": {
+      "id": "stop-2f5c83aadd",
+      "rawName": "拓邦工业园",
+      "normalizedName": "拓邦工业园",
+      "aliases": [
+        "拓邦工业园"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "拓邦工业园, 深圳市, 广东省",
+      "lat": 22.6704576,
+      "lng": 113.9086849,
+      "confidence": 0.935,
+      "status": "resolved",
+      "displayName": "拓邦工业园, 塘头高坳, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1361098438,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-7b6a8faa23": {
+      "id": "stop-7b6a8faa23",
+      "rawName": "创维天桥公交站",
+      "normalizedName": "创维天桥公交站",
+      "aliases": [
+        "创维天桥公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "创维天桥, 深圳市, 广东省",
+      "lat": 22.6481405,
+      "lng": 113.9173914,
+      "confidence": 0.95,
+      "status": "resolved",
+      "displayName": "创维天桥, 松白路, 应人石, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8944149773,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-30d4e013de": {
+      "id": "stop-30d4e013de",
+      "rawName": "高新园路口",
+      "normalizedName": "高新园路口",
+      "aliases": [
+        "高新园路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "高新园路口",
+      "lat": 22.5457963,
+      "lng": 113.9527098,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.5428,
+      "sourceLng": 113.9576
+    },
+    "stop-03f2bf2461": {
+      "id": "stop-03f2bf2461",
+      "rawName": "科技园公交站",
+      "normalizedName": "科技园公交站",
+      "aliases": [
+        "科技园公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "科技园, 深圳市, 广东省",
+      "lat": 22.5352293,
+      "lng": 114.0205705,
+      "confidence": 0.902,
+      "status": "resolved",
+      "displayName": "泰然科技园, 天安社区, 沙头街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1305286517,
+      "candidateCount": 8,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-17d3dd7b05": {
+      "id": "stop-17d3dd7b05",
+      "rawName": "白石洲公交站(沙河东路与沙祥街交叉口)",
+      "normalizedName": "白石洲公交站(沙河东路与沙祥街交叉口)",
+      "aliases": [
+        "白石洲公交站(沙河东路与沙祥街交叉口)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "白石洲公交站(沙河东路与沙祥街交叉口)",
+      "lat": 22.5446088,
+      "lng": 113.9604165,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.54163,
+      "sourceLng": 113.96532
+    },
+    "stop-be6e076365": {
+      "id": "stop-be6e076365",
+      "rawName": "车管所公交站",
+      "normalizedName": "车管所公交站",
+      "aliases": [
+        "车管所公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "车管所, 深圳市, 广东省",
+      "lat": 22.5631541,
+      "lng": 113.9658509,
+      "confidence": 0.909,
+      "status": "resolved",
+      "displayName": "市车管所, 龙井路, 龙光社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8285753129,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-ca6e90f13e": {
+      "id": "stop-ca6e90f13e",
+      "rawName": "龙井北路公交站",
+      "normalizedName": "龙井北路公交站",
+      "aliases": [
+        "龙井北路公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "龙井北路, 深圳市, 广东省",
+      "lat": 22.5694942,
+      "lng": 113.9529554,
+      "confidence": 0.958,
+      "status": "resolved",
+      "displayName": "龙井北路, 龙井路, 龙联社区, 桃源街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9204748206,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-ba1743c52f": {
+      "id": "stop-ba1743c52f",
+      "rawName": "西丽法庭公交站 (上沙河大厦)",
+      "normalizedName": "西丽法庭公交站 (上沙河大厦)",
+      "aliases": [
+        "西丽法庭公交站 (上沙河大厦)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "西丽法庭公交站 (上沙河大厦)",
+      "lat": 22.5727784,
+      "lng": 113.9505814,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.56978,
+      "sourceLng": 113.95547
+    },
+    "stop-d9ca195c69": {
+      "id": "stop-d9ca195c69",
+      "rawName": "白芒村 1",
+      "normalizedName": "白芒村",
+      "aliases": [
+        "白芒村 1",
+        "白芒村"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "白芒村, 深圳市, 广东省",
+      "lat": 22.6262453,
+      "lng": 113.9373361,
+      "confidence": 0.941,
+      "status": "resolved",
+      "displayName": "白芒村, 百旺社区, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 251115566,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-4143de69c1": {
+      "id": "stop-4143de69c1",
+      "rawName": "应人石天桥底(应人石路口)",
+      "normalizedName": "应人石天桥底(应人石路口)",
+      "aliases": [
+        "应人石天桥底(应人石路口)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "应人石天桥底(应人石路口)",
+      "lat": 22.614265,
+      "lng": 113.9319799,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.61124,
+      "sourceLng": 113.93685
+    },
+    "stop-d474728528": {
+      "id": "stop-d474728528",
+      "rawName": "西丽法庭公交站",
+      "normalizedName": "西丽法庭公交站",
+      "aliases": [
+        "西丽法庭公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "西丽法庭公交站",
+      "lat": 22.5727784,
+      "lng": 113.9505814,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.56978,
+      "sourceLng": 113.95547
+    },
+    "stop-a28be96b97": {
+      "id": "stop-a28be96b97",
+      "rawName": "白石洲公交站",
+      "normalizedName": "白石洲公交站",
+      "aliases": [
+        "白石洲公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "白石洲, 深圳市, 广东省",
+      "lat": 22.5424968,
+      "lng": 113.9622543,
+      "confidence": 0.99,
+      "status": "resolved",
+      "displayName": "白石洲, 深南大道, 明珠街社区, 沙河街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 6745828846,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-2cad9d061e": {
+      "id": "stop-2cad9d061e",
+      "rawName": "景园大厦(爱榕路)",
+      "normalizedName": "景园大厦(爱榕路)",
+      "aliases": [
+        "景园大厦(爱榕路)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "景园大厦(爱榕路)",
+      "lat": 22.5330016,
+      "lng": 113.9399977,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.52998,
+      "sourceLng": 113.94487
+    },
+    "stop-cab3acf3e0": {
+      "id": "stop-cab3acf3e0",
+      "rawName": "南门一坊",
+      "normalizedName": "南门一坊",
+      "aliases": [
+        "南门一坊"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "南门一坊, 深圳市, 广东省",
+      "lat": 22.5080097,
+      "lng": 113.9228678,
+      "confidence": 0.955,
+      "status": "resolved",
+      "displayName": "南门一坊, 东滨路, 南油社区, 粤海街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5170027883,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-654cc491c8": {
+      "id": "stop-654cc491c8",
+      "rawName": "鹏爱医院站",
+      "normalizedName": "鹏爱医院站",
+      "aliases": [
+        "鹏爱医院站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "鹏爱医院站",
+      "lat": 22.5386524,
+      "lng": 113.9393081,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.53563,
+      "sourceLng": 113.94418
+    },
+    "stop-b8270dcd06": {
+      "id": "stop-b8270dcd06",
+      "rawName": "南航站台",
+      "normalizedName": "南航站台",
+      "aliases": [
+        "南航站台"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "南航站台",
+      "lat": 22.5417176,
+      "lng": 113.9180701,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.53867,
+      "sourceLng": 113.92293
+    },
+    "stop-c2ddce5c6d": {
+      "id": "stop-c2ddce5c6d",
+      "rawName": "豪方现代豪园公交站",
+      "normalizedName": "豪方现代豪园公交站",
+      "aliases": [
+        "豪方现代豪园公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "豪方现代豪园, 深圳市, 广东省",
+      "lat": 22.5483456,
+      "lng": 113.9302136,
+      "confidence": 0.943,
+      "status": "resolved",
+      "displayName": "豪方现代豪园, 12, 麻岭社区, 粤海街道, 南山区, 深圳市, 广东省, 518057, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 801959633,
+      "candidateCount": 8,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-8a7e7a0652": {
+      "id": "stop-8a7e7a0652",
+      "rawName": "坪洲地铁站B出口",
+      "normalizedName": "坪洲地铁站B出口",
+      "aliases": [
+        "坪洲地铁站B出口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "坪洲地铁站, 深圳市, 广东省",
+      "lat": 22.5726776,
+      "lng": 113.8651105,
+      "confidence": 0.949,
+      "status": "resolved",
+      "displayName": "坪洲地铁站, 新湖路, 麻布社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5559641182,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-bd4a65acda": {
+      "id": "stop-bd4a65acda",
+      "rawName": "新安五路翻身路口公交站",
+      "normalizedName": "新安五路翻身路口公交站",
+      "aliases": [
+        "新安五路翻身路口公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "新安五路翻身路口, 深圳市, 广东省",
+      "lat": 22.5738234,
+      "lng": 113.8779602,
+      "confidence": 0.95,
+      "status": "resolved",
+      "displayName": "新安五路翻身路口, 新安五路, 海华社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8940470471,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-8f094778eb": {
+      "id": "stop-8f094778eb",
+      "rawName": "流塘市场",
+      "normalizedName": "流塘市场",
+      "aliases": [
+        "流塘市场"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "流塘市场, 深圳市, 广东省",
+      "lat": 22.5826405,
+      "lng": 113.8846129,
+      "confidence": 0.951,
+      "status": "resolved",
+      "displayName": "流塘市场, 建安二路, 河西社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 13288351153,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-fe998f3eae": {
+      "id": "stop-fe998f3eae",
+      "rawName": "西乡中心医院公交站",
+      "normalizedName": "西乡中心医院公交站",
+      "aliases": [
+        "西乡中心医院公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "西乡中心医院公交站",
+      "lat": 22.5818919,
+      "lng": 113.8723726,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.57886,
+      "sourceLng": 113.87728
+    },
+    "stop-6b7ec8bf6f": {
+      "id": "stop-6b7ec8bf6f",
+      "rawName": "火王人行天桥公交站",
+      "normalizedName": "火王人行天桥公交站",
+      "aliases": [
+        "火王人行天桥公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "火王人行天桥, 深圳市, 广东省",
+      "lat": 22.5943523,
+      "lng": 113.867581,
+      "confidence": 0.953,
+      "status": "resolved",
+      "displayName": "火王人行天桥, 天谷大楼, 臣田社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 239064292,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-68fb9fed88": {
+      "id": "stop-68fb9fed88",
+      "rawName": "西乡立交公交站",
+      "normalizedName": "西乡立交公交站",
+      "aliases": [
+        "西乡立交公交站",
+        "西乡立交1公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "西乡立交公交站",
+      "lat": 22.5860114,
+      "lng": 113.8732771,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.582979,
+      "sourceLng": 113.878183
+    },
+    "stop-ba85ea70d5": {
+      "id": "stop-ba85ea70d5",
+      "rawName": "西乡路口",
+      "normalizedName": "西乡路口",
+      "aliases": [
+        "西乡路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "西乡路口, 深圳市, 广东省",
+      "lat": 22.5789614,
+      "lng": 113.8799598,
+      "confidence": 0.95,
+      "status": "resolved",
+      "displayName": "西乡路口, 广深公路辅路, 河东社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8926538112,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-83c2a76280": {
+      "id": "stop-83c2a76280",
+      "rawName": "河东公交站",
+      "normalizedName": "河东公交站",
+      "aliases": [
+        "河东公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "河东, 深圳市, 广东省",
+      "lat": 22.711392,
+      "lng": 114.0533133,
+      "confidence": 0.966,
+      "status": "resolved",
+      "displayName": "河东, 观湖街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 11262406011,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-b1e87cf6fb": {
+      "id": "stop-b1e87cf6fb",
+      "rawName": "坪洲地铁站",
+      "normalizedName": "坪洲地铁站",
+      "aliases": [
+        "坪洲地铁站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "坪洲地铁站, 深圳市, 广东省",
+      "lat": 22.5726776,
+      "lng": 113.8651105,
+      "confidence": 0.949,
+      "status": "resolved",
+      "displayName": "坪洲地铁站, 新湖路, 麻布社区, 西乡街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5559641182,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-694cba7893": {
+      "id": "stop-694cba7893",
+      "rawName": "星航华府大门",
+      "normalizedName": "星航华府大门",
+      "aliases": [
+        "星航华府大门"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "星航华府大门",
+      "lat": 22.6140725,
+      "lng": 113.8521716,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.611074,
+      "sourceLng": 113.857126
+    },
+    "stop-eb5f267dce": {
+      "id": "stop-eb5f267dce",
+      "rawName": "三围路口(宝利大厦中石化加油站)",
+      "normalizedName": "三围路口(宝利大厦中石化加油站)",
+      "aliases": [
+        "三围路口(宝利大厦中石化加油站)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "三围路口(宝利大厦中石化加油站)",
+      "lat": 22.6089638,
+      "lng": 113.8489278,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.60597,
+      "sourceLng": 113.85389
+    },
+    "stop-b806e752b0": {
+      "id": "stop-b806e752b0",
+      "rawName": "桃源居公交站",
+      "normalizedName": "桃源居公交站",
+      "aliases": [
+        "桃源居公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "桃源居公交站",
+      "lat": 22.5981341,
+      "lng": 113.8605466,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.59512,
+      "sourceLng": 113.86548
+    },
+    "stop-0c80cb090e": {
+      "id": "stop-0c80cb090e",
+      "rawName": "恒丰工业城公交站",
+      "normalizedName": "恒丰工业城公交站",
+      "aliases": [
+        "恒丰工业城公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "恒丰工业城, 深圳市, 广东省",
+      "lat": 22.6313884,
+      "lng": 113.8591997,
+      "confidence": 0.946,
+      "status": "resolved",
+      "displayName": "恒丰工业城, 洲石路辅路, 鹤洲, 航城街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8944138874,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-76e5cf6c6d": {
+      "id": "stop-76e5cf6c6d",
+      "rawName": "黄麻布公交站",
+      "normalizedName": "黄麻布公交站",
+      "aliases": [
+        "黄麻布公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "黄麻布, 深圳市, 广东省",
+      "lat": 22.6688222,
+      "lng": 113.8587757,
+      "confidence": 0.96,
+      "status": "resolved",
+      "displayName": "黄麻布, 航城街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 10710986959,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-1ae7e34b05": {
+      "id": "stop-1ae7e34b05",
+      "rawName": "奋达科技园公交站",
+      "normalizedName": "奋达科技园公交站",
+      "aliases": [
+        "奋达科技园公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "奋达科技园公交站",
+      "lat": 22.6068581,
+      "lng": 113.8573987,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.60385,
+      "sourceLng": 113.86234
+    },
+    "stop-7d51f3c3f4": {
+      "id": "stop-7d51f3c3f4",
+      "rawName": "梅林检查站公交站",
+      "normalizedName": "梅林检查站公交站",
+      "aliases": [
+        "梅林检查站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "梅林检查站公交站",
+      "lat": 22.5956015,
+      "lng": 114.0478264,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.59287,
+      "sourceLng": 114.05293
+    },
+    "stop-0e2ff9e0e2": {
+      "id": "stop-0e2ff9e0e2",
+      "rawName": "民丰天桥",
+      "normalizedName": "民丰天桥",
+      "aliases": [
+        "民丰天桥"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "民丰天桥, 深圳市, 广东省",
+      "lat": 22.6101828,
+      "lng": 114.0359695,
+      "confidence": 0.962,
+      "status": "resolved",
+      "displayName": "民丰天桥, 龙华大道绿道, 横岭, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9220579459,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-207e02cc73": {
+      "id": "stop-207e02cc73",
+      "rawName": "樟坑公交站",
+      "normalizedName": "樟坑公交站",
+      "aliases": [
+        "樟坑公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "樟坑, 深圳市, 广东省",
+      "lat": 22.6204489,
+      "lng": 114.0313683,
+      "confidence": 0.977,
+      "status": "resolved",
+      "displayName": "樟坑, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 10976894979,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-db20e5f0e8": {
+      "id": "stop-db20e5f0e8",
+      "rawName": "民兴路口公交站",
+      "normalizedName": "民兴路口公交站",
+      "aliases": [
+        "民兴路口公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "民兴路口, 深圳市, 广东省",
+      "lat": 22.6263828,
+      "lng": 114.0266291,
+      "confidence": 0.96,
+      "status": "resolved",
+      "displayName": "民兴路口, 龙华大道绿道, 民治社区, 东泉新村, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 2959673392,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-f074bc7219": {
+      "id": "stop-f074bc7219",
+      "rawName": "大岭社区公交站",
+      "normalizedName": "大岭社区公交站",
+      "aliases": [
+        "大岭社区公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "大岭社区, 深圳市, 广东省",
+      "lat": 22.6377885,
+      "lng": 114.0181689,
+      "confidence": 0.958,
+      "status": "resolved",
+      "displayName": "大岭社区, 布龙路辅路, 大岭社区, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9220585648,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-9329cbb2cd": {
+      "id": "stop-9329cbb2cd",
+      "rawName": "锦秀江南公交站",
+      "normalizedName": "锦绣江南公交站",
+      "aliases": [
+        "锦秀江南公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "锦绣江南, 深圳市, 广东省",
+      "lat": 22.6363808,
+      "lng": 114.0230353,
+      "confidence": 0.958,
+      "status": "resolved",
+      "displayName": "锦绣江南, 布龙路辅路, 大岭社区, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9220585635,
+      "candidateCount": 8,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-a10a61d5cc": {
+      "id": "stop-a10a61d5cc",
+      "rawName": "世纪春城公交站",
+      "normalizedName": "世纪春城公交站",
+      "aliases": [
+        "世纪春城公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "世纪春城, 深圳市, 广东省",
+      "lat": 22.6294676,
+      "lng": 114.0256247,
+      "confidence": 0.959,
+      "status": "resolved",
+      "displayName": "世纪春城, 龙华大道绿道, 民治社区, 东泉新村, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 2959673339,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-ec8ba6c9ff": {
+      "id": "stop-ec8ba6c9ff",
+      "rawName": "铁路桥",
+      "normalizedName": "铁路桥",
+      "aliases": [
+        "铁路桥"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "铁路桥, 深圳市, 广东省",
+      "lat": 22.6176256,
+      "lng": 114.0298461,
+      "confidence": 0.961,
+      "status": "resolved",
+      "displayName": "铁路桥, 龙华大道绿道, 樟坑, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 2959673341,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-07332acfb6": {
+      "id": "stop-07332acfb6",
+      "rawName": "惠鑫公寓",
+      "normalizedName": "惠鑫公寓",
+      "aliases": [
+        "惠鑫公寓"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "惠鑫公寓, 深圳市, 广东省",
+      "lat": 22.6033412,
+      "lng": 114.0407934,
+      "confidence": 0.95,
+      "status": "resolved",
+      "displayName": "惠鑫公寓, 民乐社区, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1451250623,
+      "candidateCount": 6,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-ceeca09047": {
+      "id": "stop-ceeca09047",
+      "rawName": "莹水山庄",
+      "normalizedName": "莹水山庄",
+      "aliases": [
+        "莹水山庄"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "莹水山庄",
+      "lat": 22.6299156,
+      "lng": 114.0435213,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.62718,
+      "sourceLng": 114.04862
+    },
+    "stop-f63a18abd2": {
+      "id": "stop-f63a18abd2",
+      "rawName": "坂田医院公交站",
+      "normalizedName": "坂田医院公交站",
+      "aliases": [
+        "坂田医院公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "坂田医院, 深圳市, 广东省",
+      "lat": 22.6294315,
+      "lng": 114.0615134,
+      "confidence": 0.96,
+      "status": "resolved",
+      "displayName": "坂田医院, 布龙路辅路, 和墈, 坂田街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8913115084,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-53097f724e": {
+      "id": "stop-53097f724e",
+      "rawName": "隔圳新村",
+      "normalizedName": "隔圳新村",
+      "aliases": [
+        "隔圳新村"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "隔圳新村, 深圳市, 广东省",
+      "lat": 22.6403197,
+      "lng": 114.0143743,
+      "confidence": 0.958,
+      "status": "resolved",
+      "displayName": "隔圳新村, 布龙路辅路, 新牛社区, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9220585747,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-c02f835eca": {
+      "id": "stop-c02f835eca",
+      "rawName": "上芬地铁站",
+      "normalizedName": "上芬地铁站",
+      "aliases": [
+        "上芬地铁站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "上芬地铁站, 深圳市, 广东省",
+      "lat": 22.6442098,
+      "lng": 114.011209,
+      "confidence": 0.957,
+      "status": "resolved",
+      "displayName": "上芬地铁站, 布龙路辅路, 上芬西头, 民治街道, 龙华区, 深圳市, 广东省, 518110, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9220585758,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-189ba36ba7": {
+      "id": "stop-189ba36ba7",
+      "rawName": "上横郎公交站",
+      "normalizedName": "上横朗公交站",
+      "aliases": [
+        "上横郎公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "上横朗, 深圳市, 广东省",
+      "lat": 22.6820472,
+      "lng": 113.9743504,
+      "confidence": 0.967,
+      "status": "resolved",
+      "displayName": "上横朗, 大浪街道, 龙华区, 深圳市, 广东省, 518109, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 11015859061,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-09fd63b757": {
+      "id": "stop-09fd63b757",
+      "rawName": "长城公交站",
+      "normalizedName": "长城公交站",
+      "aliases": [
+        "长城公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "长城, 深圳市, 广东省",
+      "lat": 22.5561838,
+      "lng": 114.0846188,
+      "confidence": 0.909,
+      "status": "resolved",
+      "displayName": "长城社区, 园岭街道, 福田区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "relation",
+      "osmId": 13636135,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-e13b7b1fdf": {
+      "id": "stop-e13b7b1fdf",
+      "rawName": "官田公交站(1)",
+      "normalizedName": "官田公交站",
+      "aliases": [
+        "官田公交站(1)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "官田, 深圳市, 广东省",
+      "lat": 22.6861891,
+      "lng": 113.9448231,
+      "confidence": 0.979,
+      "status": "resolved",
+      "displayName": "官田, 石岩北环路, 元径, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 3617131393,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-cdebb648a3": {
+      "id": "stop-cdebb648a3",
+      "rawName": "宝燃油站",
+      "normalizedName": "宝燃油站",
+      "aliases": [
+        "宝燃油站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "宝燃油站, 深圳市, 广东省",
+      "lat": 22.6855548,
+      "lng": 113.9479671,
+      "confidence": 0.95,
+      "status": "resolved",
+      "displayName": "宝燃油站, 三祝里路, 三祝里, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1206343306,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-cfac4f1efb": {
+      "id": "stop-cfac4f1efb",
+      "rawName": "英伦国际酒店 (油松加油站对面)",
+      "normalizedName": "英伦国际酒店 (油松加油站对面)",
+      "aliases": [
+        "英伦国际酒店 (油松加油站对面)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "英伦国际酒店 (油松加油站对面)",
+      "lat": 22.6657819,
+      "lng": 114.0158178,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.66298,
+      "sourceLng": 114.02086
+    },
+    "stop-0c7b12d346": {
+      "id": "stop-0c7b12d346",
+      "rawName": "龙华天虹公交站",
+      "normalizedName": "龙华天虹公交站",
+      "aliases": [
+        "龙华天虹公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "龙华天虹公交站",
+      "lat": 22.6652058,
+      "lng": 114.014551,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.6624,
+      "sourceLng": 114.01959
+    },
+    "stop-f42e0d16b5": {
+      "id": "stop-f42e0d16b5",
+      "rawName": "龙华村公交站",
+      "normalizedName": "龙华村公交站",
+      "aliases": [
+        "龙华村公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "龙华村, 深圳市, 广东省",
+      "lat": 22.6617246,
+      "lng": 114.000161,
+      "confidence": 0.955,
+      "status": "resolved",
+      "displayName": "龙华村, 龙观大道, 高峰社区, 大浪街道, 龙华区, 深圳市, 广东省, 518109, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9214025729,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-5b6c643109": {
+      "id": "stop-5b6c643109",
+      "rawName": "国泰家私城",
+      "normalizedName": "国泰家私城",
+      "aliases": [
+        "国泰家私城"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "国泰家私城",
+      "lat": 22.6824338,
+      "lng": 113.9301068,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.67942,
+      "sourceLng": 113.93498
+    },
+    "stop-f28d94cec9": {
+      "id": "stop-f28d94cec9",
+      "rawName": "赤岭头村公交站",
+      "normalizedName": "赤岭头村公交站",
+      "aliases": [
+        "赤岭头村公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "赤岭头村, 深圳市, 广东省",
+      "lat": 22.6518833,
+      "lng": 114.0050724,
+      "confidence": 0.956,
+      "status": "resolved",
+      "displayName": "赤岭头村, 布龙路, 赤岭头, 大浪街道, 龙华区, 深圳市, 广东省, 518109, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9214025724,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-690010cbdd": {
+      "id": "stop-690010cbdd",
+      "rawName": "谭罗村公交站",
+      "normalizedName": "谭罗村公交站",
+      "aliases": [
+        "谭罗村公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "谭罗村, 深圳市, 广东省",
+      "lat": 22.6671795,
+      "lng": 113.9915679,
+      "confidence": 0.954,
+      "status": "resolved",
+      "displayName": "谭罗村, 布龙路辅路, 华荣社区, 大浪街道, 龙华区, 深圳市, 广东省, 518109, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9213136257,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-c632e84809": {
+      "id": "stop-c632e84809",
+      "rawName": "河滨花园",
+      "normalizedName": "河滨花园",
+      "aliases": [
+        "河滨花园"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "河滨花园",
+      "lat": 22.6820815,
+      "lng": 113.9296192,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.679067,
+      "sourceLng": 113.934492
+    },
+    "stop-9417ef9055": {
+      "id": "stop-9417ef9055",
+      "rawName": "鼎太风华公交站",
+      "normalizedName": "鼎太风华公交站",
+      "aliases": [
+        "鼎太风华公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "鼎太风华, 深圳市, 广东省",
+      "lat": 22.522888,
+      "lng": 113.9087894,
+      "confidence": 0.954,
+      "status": "resolved",
+      "displayName": "鼎太风华, 前海路, 南园社区, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5559614317,
+      "candidateCount": 8,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-144d794061": {
+      "id": "stop-144d794061",
+      "rawName": "大新村公交站",
+      "normalizedName": "大新村公交站",
+      "aliases": [
+        "大新村公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "大新村, 深圳市, 广东省",
+      "lat": 22.5329104,
+      "lng": 113.9105865,
+      "confidence": 0.954,
+      "status": "resolved",
+      "displayName": "大新村, 前海路, 大新新村, 大新社区, 南头街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5559614294,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-87ff715a57": {
+      "id": "stop-87ff715a57",
+      "rawName": "龙海家园",
+      "normalizedName": "龙海家园",
+      "aliases": [
+        "龙海家园"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "龙海家园, 深圳市, 广东省",
+      "lat": 22.537824,
+      "lng": 113.900791,
+      "confidence": 0.94,
+      "status": "resolved",
+      "displayName": "龙海家园, 桂湾, 南山街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 497373354,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-60f15ec42b": {
+      "id": "stop-60f15ec42b",
+      "rawName": "甲岸路口公交站",
+      "normalizedName": "甲岸路口公交站",
+      "aliases": [
+        "甲岸路口公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "甲岸路口, 深圳市, 广东省",
+      "lat": 22.5567917,
+      "lng": 113.8921651,
+      "confidence": 0.952,
+      "status": "resolved",
+      "displayName": "甲岸路口, 宝安大道辅路, 安乐社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 5559611275,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-ba91125ab1": {
+      "id": "stop-ba91125ab1",
+      "rawName": "创业天虹公交站",
+      "normalizedName": "创业天虹公交站",
+      "aliases": [
+        "创业天虹公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "创业天虹, 深圳市, 广东省",
+      "lat": 22.5631186,
+      "lng": 113.8896685,
+      "confidence": 0.9,
+      "status": "resolved",
+      "displayName": "肯德基, 创业天虹, 翻身路, 安乐社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 13227264758,
+      "candidateCount": 7,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-5f0ef0f776": {
+      "id": "stop-5f0ef0f776",
+      "rawName": "灵芝地铁站公交站",
+      "normalizedName": "灵芝地铁站公交站",
+      "aliases": [
+        "灵芝地铁站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "灵芝地铁站, 深圳市, 广东省",
+      "lat": 22.5710401,
+      "lng": 113.8979298,
+      "confidence": 0.952,
+      "status": "resolved",
+      "displayName": "灵芝地铁站, 创业二路, 宝民社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8940664041,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-a02299017e": {
+      "id": "stop-a02299017e",
+      "rawName": "中粮创芯公交站",
+      "normalizedName": "中粮创芯公交站",
+      "aliases": [
+        "中粮创芯公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "中粮创芯, 深圳市, 广东省",
+      "lat": 22.5824201,
+      "lng": 113.9115151,
+      "confidence": 0.902,
+      "status": "resolved",
+      "displayName": "中粮创芯公园北, 创业二路, 兴东社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8944149695,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-8d3d5687b3": {
+      "id": "stop-8d3d5687b3",
+      "rawName": "洪浪北地铁站",
+      "normalizedName": "洪浪北地铁站",
+      "aliases": [
+        "洪浪北地铁站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "洪浪北地铁站, 深圳市, 广东省",
+      "lat": 22.5770381,
+      "lng": 113.9049078,
+      "confidence": 0.953,
+      "status": "resolved",
+      "displayName": "洪浪北地铁站, 创业二路, 大浪社区, 新安街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8940664037,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-7e0135e7b7": {
+      "id": "stop-7e0135e7b7",
+      "rawName": "元径居民小组公交站",
+      "normalizedName": "元径居民小组公交站",
+      "aliases": [
+        "元径居民小组公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "元径居民小组, 深圳市, 广东省",
+      "lat": 22.6897579,
+      "lng": 113.93474,
+      "confidence": 0.948,
+      "status": "resolved",
+      "displayName": "元径居民小组, 田心大道, 元径, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8948115622,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-da20f78a36": {
+      "id": "stop-da20f78a36",
+      "rawName": "河滨花园市场公交站",
+      "normalizedName": "河滨花园市场公交站",
+      "aliases": [
+        "河滨花园市场公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "河滨花园市场公交站",
+      "lat": 22.6840535,
+      "lng": 113.9299868,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.68104,
+      "sourceLng": 113.93486
+    },
+    "stop-f664e88314": {
+      "id": "stop-f664e88314",
+      "rawName": "罗租社区",
+      "normalizedName": "罗租社区",
+      "aliases": [
+        "罗租社区"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "罗租社区, 深圳市, 广东省",
+      "lat": 22.6772866,
+      "lng": 113.9256944,
+      "confidence": 0.949,
+      "status": "resolved",
+      "displayName": "罗租社区, 宝石南路, 浪心, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8948038874,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-a994e3f546": {
+      "id": "stop-a994e3f546",
+      "rawName": "浪心村天桥公交站",
+      "normalizedName": "浪心村天桥公交站",
+      "aliases": [
+        "浪心村天桥公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "浪心村天桥公交站",
+      "lat": 22.6869357,
+      "lng": 113.927558,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.68392,
+      "sourceLng": 113.93243
+    },
+    "stop-5a90cf3960": {
+      "id": "stop-5a90cf3960",
+      "rawName": "河滨花园公交站",
+      "normalizedName": "河滨花园公交站",
+      "aliases": [
+        "河滨花园公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "河滨花园公交站",
+      "lat": 22.6828742,
+      "lng": 113.9296971,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.67986,
+      "sourceLng": 113.93457
+    },
+    "stop-194f3d83ca": {
+      "id": "stop-194f3d83ca",
+      "rawName": "宏发大世界公交站",
+      "normalizedName": "宏发大世界公交站",
+      "aliases": [
+        "宏发大世界公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "宏发大世界, 深圳市, 广东省",
+      "lat": 22.6768611,
+      "lng": 113.9245056,
+      "confidence": 0.949,
+      "status": "resolved",
+      "displayName": "宏发大世界, 青年路, 浪心, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8948038898,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-89735f8c95": {
+      "id": "stop-89735f8c95",
+      "rawName": "石岩新村路口",
+      "normalizedName": "石岩新村路口",
+      "aliases": [
+        "石岩新村路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "石岩新村路口",
+      "lat": 22.6808,
+      "lng": 113.9250496,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.67778,
+      "sourceLng": 113.92992
+    },
+    "stop-aa31836f3f": {
+      "id": "stop-aa31836f3f",
+      "rawName": "宏发大世界",
+      "normalizedName": "宏发大世界",
+      "aliases": [
+        "宏发大世界"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "宏发大世界, 深圳市, 广东省",
+      "lat": 22.6768611,
+      "lng": 113.9245056,
+      "confidence": 0.949,
+      "status": "resolved",
+      "displayName": "宏发大世界, 青年路, 浪心, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8948038898,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-3989ab8c60": {
+      "id": "stop-3989ab8c60",
+      "rawName": "浪心村委",
+      "normalizedName": "浪心村委",
+      "aliases": [
+        "浪心村委"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "浪心村委",
+      "lat": 22.6857069,
+      "lng": 113.9267785,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.68269,
+      "sourceLng": 113.93165
+    },
+    "stop-44f8773dfe": {
+      "id": "stop-44f8773dfe",
+      "rawName": "福永地铁站",
+      "normalizedName": "福永地铁站",
+      "aliases": [
+        "福永地铁站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "福永地铁站, 深圳市, 广东省",
+      "lat": 22.6752966,
+      "lng": 113.8012465,
+      "confidence": 0.938,
+      "status": "resolved",
+      "displayName": "福永地铁站, 宝安大道辅路, 福永街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8916622582,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-aa9311b3b9": {
+      "id": "stop-aa9311b3b9",
+      "rawName": "新和天桥",
+      "normalizedName": "新和天桥",
+      "aliases": [
+        "新和天桥"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "新和天桥, 深圳市, 广东省",
+      "lat": 22.6699686,
+      "lng": 113.8022442,
+      "confidence": 0.887,
+      "status": "resolved",
+      "displayName": "新和天桥 ①, 宝安大道辅路, 福永社区, 福海街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8916622579,
+      "candidateCount": 4,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-0bf34522f4": {
+      "id": "stop-0bf34522f4",
+      "rawName": "万福广场公交站",
+      "normalizedName": "万福广场公交站",
+      "aliases": [
+        "万福广场公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "万福广场, 深圳市, 广东省",
+      "lat": 22.6720772,
+      "lng": 113.816118,
+      "confidence": 0.94,
+      "status": "resolved",
+      "displayName": "万福广场, 福永大道, 怀德社区, 福永街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8935435234,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-81ab4e5191": {
+      "id": "stop-81ab4e5191",
+      "rawName": "龙王古庙公交站",
+      "normalizedName": "龙王古庙公交站",
+      "aliases": [
+        "龙王古庙公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "龙王古庙, 深圳市, 广东省",
+      "lat": 22.6736362,
+      "lng": 113.83563,
+      "confidence": 0.942,
+      "status": "resolved",
+      "displayName": "龙王古庙, 龙二路, 龙王庙工业区, 福永街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1454830511,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-265662e000": {
+      "id": "stop-265662e000",
+      "rawName": "福永会堂",
+      "normalizedName": "福永会堂",
+      "aliases": [
+        "福永会堂"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "福永会堂, 深圳市, 广东省",
+      "lat": 22.6738863,
+      "lng": 113.8202044,
+      "confidence": 0.94,
+      "status": "resolved",
+      "displayName": "福永会堂, 11, 福永大道, 怀德社区, 福永街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1446492183,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-72bb861bec": {
+      "id": "stop-72bb861bec",
+      "rawName": "沙井地铁站公交站",
+      "normalizedName": "沙井地铁站公交站",
+      "aliases": [
+        "沙井地铁站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "沙井地铁站, 深圳市, 广东省",
+      "lat": 22.7338018,
+      "lng": 113.8190526,
+      "confidence": 0.936,
+      "status": "resolved",
+      "displayName": "沙井地铁站, 宝安大道辅路, 壆岗社区, 沙井街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8916622652,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-f71953469e": {
+      "id": "stop-f71953469e",
+      "rawName": "马鞍山地铁站公交站",
+      "normalizedName": "马鞍山地铁站公交站",
+      "aliases": [
+        "马鞍山地铁站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "马鞍山地铁站公交站",
+      "lat": 22.7293944,
+      "lng": 113.8258389,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.72647,
+      "sourceLng": 113.83087
+    },
+    "stop-7fe394c8d6": {
+      "id": "stop-7fe394c8d6",
+      "rawName": "塘尾地铁站公交站",
+      "normalizedName": "塘尾地铁站公交站",
+      "aliases": [
+        "塘尾地铁站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "塘尾地铁站, 深圳市, 广东省",
+      "lat": 22.705251,
+      "lng": 113.8131542,
+      "confidence": 0.937,
+      "status": "resolved",
+      "displayName": "塘尾地铁站, 宝安大道辅路, 新桥街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8916622602,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-908d3c8411": {
+      "id": "stop-908d3c8411",
+      "rawName": "桥头地铁站公交站",
+      "normalizedName": "桥头地铁站公交站",
+      "aliases": [
+        "桥头地铁站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "桥头地铁站, 深圳市, 广东省",
+      "lat": 22.6906916,
+      "lng": 113.8061423,
+      "confidence": 0.938,
+      "status": "resolved",
+      "displayName": "桥头地铁站, 宝安大道辅路, 桥头社区, 福海街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8916622592,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-2b379de829": {
+      "id": "stop-2b379de829",
+      "rawName": "松岗中英文学校公交站",
+      "normalizedName": "松岗中英文学校公交站",
+      "aliases": [
+        "松岗中英文学校公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "松岗中英文学校, 深圳市, 广东省",
+      "lat": 22.7741973,
+      "lng": 113.8493451,
+      "confidence": 0.935,
+      "status": "resolved",
+      "displayName": "松岗中英文学校, 松白路, 山门社区, 松岗街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8946339496,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-5056c81842": {
+      "id": "stop-5056c81842",
+      "rawName": "中粮云景广场",
+      "normalizedName": "中粮云景广场",
+      "aliases": [
+        "中粮云景广场"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "中粮云景广场, 深圳市, 广东省",
+      "lat": 22.7809754,
+      "lng": 113.8825776,
+      "confidence": 0.936,
+      "status": "resolved",
+      "displayName": "中粮云景广场, 松白路辅路, 马山头村, 马田街道, 光明区, 深圳市, 广东省, 518107, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9024174979,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-43061f00c5": {
+      "id": "stop-43061f00c5",
+      "rawName": "光明区人民医院西院区 1",
+      "normalizedName": "光明区人民医院西院区",
+      "aliases": [
+        "光明区人民医院西院区 1"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "光明区人民医院西院区",
+      "lat": 22.779415,
+      "lng": 113.9307403,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.77643,
+      "sourceLng": 113.93562
+    },
+    "stop-f78277f48f": {
+      "id": "stop-f78277f48f",
+      "rawName": "光明塘尾",
+      "normalizedName": "光明塘尾",
+      "aliases": [
+        "光明塘尾"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "光明塘尾, 深圳市, 广东省",
+      "lat": 22.7519726,
+      "lng": 113.9032515,
+      "confidence": 0.94,
+      "status": "resolved",
+      "displayName": "光明塘尾, 松白路辅路, 塘尾, 凤凰街道, 光明区, 深圳市, 广东省, 518107, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9024724690,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-a2085af4d9": {
+      "id": "stop-a2085af4d9",
+      "rawName": "光明大道路口公交站",
+      "normalizedName": "光明大道路口公交站",
+      "aliases": [
+        "光明大道路口公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "光明大道路口, 深圳市, 广东省",
+      "lat": 22.7384129,
+      "lng": 113.9021995,
+      "confidence": 0.942,
+      "status": "resolved",
+      "displayName": "光明大道路口, 田湾路, 玉塘街道, 光明区, 深圳市, 广东省, 518107, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8953350090,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-593c45096b": {
+      "id": "stop-593c45096b",
+      "rawName": "玉律公交站",
+      "normalizedName": "玉律公交站",
+      "aliases": [
+        "玉律公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "玉律, 深圳市, 广东省",
+      "lat": 22.7172238,
+      "lng": 113.9017273,
+      "confidence": 0.944,
+      "status": "resolved",
+      "displayName": "玉律, 松白路, 红星社区, 玉塘街道, 光明区, 深圳市, 广东省, 518107, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8953350043,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-62e007f9bb": {
+      "id": "stop-62e007f9bb",
+      "rawName": "公明塘尾公交站",
+      "normalizedName": "公明塘尾公交站",
+      "aliases": [
+        "公明塘尾公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "公明塘尾公交站",
+      "lat": 22.7799527,
+      "lng": 113.907603,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.77695,
+      "sourceLng": 113.91248
+    },
+    "stop-971a945308": {
+      "id": "stop-971a945308",
+      "rawName": "田寮公交站",
+      "normalizedName": "田寮公交站",
+      "aliases": [
+        "田寮公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "田寮, 深圳市, 广东省",
+      "lat": 22.7297285,
+      "lng": 113.9023932,
+      "confidence": 0.942,
+      "status": "resolved",
+      "displayName": "田寮, 松白路辅路, 长圳社区, 玉塘街道, 光明区, 深圳市, 广东省, 518107, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8953350096,
+      "candidateCount": 3,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-f715f874b2": {
+      "id": "stop-f715f874b2",
+      "rawName": "石岩汽车站",
+      "normalizedName": "石岩汽车站",
+      "aliases": [
+        "石岩汽车站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "石岩汽车站, 深圳市, 广东省",
+      "lat": 22.6871376,
+      "lng": 113.9244455,
+      "confidence": 0.948,
+      "status": "resolved",
+      "displayName": "石岩汽车站, 宝石西路, 下排, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1424511704,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-2593c79318": {
+      "id": "stop-2593c79318",
+      "rawName": "万科松湖传奇 (3号门)",
+      "normalizedName": "万科松湖传奇 (3号门)",
+      "aliases": [
+        "万科松湖传奇 (3号门)"
+      ],
+      "expectedCities": [
+        "东莞"
+      ],
+      "query": "万科松湖传奇, 东莞市, 广东省",
+      "lat": 22.9842959,
+      "lng": 113.9107136,
+      "confidence": 0.939,
+      "status": "resolved",
+      "displayName": "万科松湖传奇, 寮步镇, 东莞市, 广东省, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 510068203,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-b9456fcbd7": {
+      "id": "stop-b9456fcbd7",
+      "rawName": "华为天桥(新城路)",
+      "normalizedName": "华为天桥(新城路)",
+      "aliases": [
+        "华为天桥(新城路)"
+      ],
+      "expectedCities": [
+        "东莞"
+      ],
+      "query": "华为天桥(新城路)",
+      "lat": 22.9082627,
+      "lng": 113.8777316,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.90532,
+      "sourceLng": 113.88265
+    },
+    "stop-f8c5ba6db1": {
+      "id": "stop-f8c5ba6db1",
+      "rawName": "松湖烟雨公交站",
+      "normalizedName": "松湖烟雨公交站",
+      "aliases": [
+        "松湖烟雨公交站"
+      ],
+      "expectedCities": [
+        "东莞"
+      ],
+      "query": "松湖烟雨公交站",
+      "lat": 22.9043773,
+      "lng": 113.8810474,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.90143,
+      "sourceLng": 113.88596
+    },
+    "stop-2f20be3aae": {
+      "id": "stop-2f20be3aae",
+      "rawName": "滨湖路西服务区公交站",
+      "normalizedName": "滨湖路西服务区公交站",
+      "aliases": [
+        "滨湖路西服务区公交站"
+      ],
+      "expectedCities": [
+        "东莞"
+      ],
+      "query": "滨湖路西服务区公交站",
+      "lat": 22.9015048,
+      "lng": 113.868274,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.89857,
+      "sourceLng": 113.87321
+    },
+    "stop-83a6caed46": {
+      "id": "stop-83a6caed46",
+      "rawName": "松山湖一号二号门",
+      "normalizedName": "松山湖一号二号门",
+      "aliases": [
+        "松山湖一号二号门"
+      ],
+      "expectedCities": [
+        "东莞"
+      ],
+      "query": "松山湖一号二号门",
+      "lat": 22.9102077,
+      "lng": 113.8846325,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.90726,
+      "sourceLng": 113.88954
+    },
+    "stop-bd1f3590cc": {
+      "id": "stop-bd1f3590cc",
+      "rawName": "华为天桥站",
+      "normalizedName": "华为天桥站",
+      "aliases": [
+        "华为天桥站"
+      ],
+      "expectedCities": [
+        "东莞"
+      ],
+      "query": "华为天桥站",
+      "lat": 22.9082627,
+      "lng": 113.8777316,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.90532,
+      "sourceLng": 113.88265
+    },
+    "stop-1bd02a1e63": {
+      "id": "stop-1bd02a1e63",
+      "rawName": "天颂雅苑公交站",
+      "normalizedName": "天颂雅苑公交站",
+      "aliases": [
+        "天颂雅苑公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "天颂雅苑, 深圳市, 广东省",
+      "lat": 22.6522807,
+      "lng": 114.1779678,
+      "confidence": 0.939,
+      "status": "resolved",
+      "displayName": "天颂雅苑, 六约北社区, 横岗街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 1160857974,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-001d16dca8": {
+      "id": "stop-001d16dca8",
+      "rawName": "横岗大厦公交站",
+      "normalizedName": "横岗大厦公交站",
+      "aliases": [
+        "横岗大厦公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "横岗大厦公交站",
+      "lat": 22.65675,
+      "lng": 114.2092923,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.65393,
+      "sourceLng": 114.21418
+    },
+    "stop-78b3c35a74": {
+      "id": "stop-78b3c35a74",
+      "rawName": "大运地铁站公交站",
+      "normalizedName": "大运地铁站公交站",
+      "aliases": [
+        "大运地铁站公交站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "大运地铁站, 深圳市, 广东省",
+      "lat": 22.6886272,
+      "lng": 114.2230376,
+      "confidence": 0.945,
+      "status": "resolved",
+      "displayName": "大运地铁站, 龙岗大道, 荷坳社区, 园山街道, 龙岗区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 2466431919,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-36a11c1b16": {
+      "id": "stop-36a11c1b16",
+      "rawName": "塘头路口",
+      "normalizedName": "塘头路口",
+      "aliases": [
+        "塘头路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "塘头路口",
+      "lat": 22.7233284,
+      "lng": 113.9335817,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.72033,
+      "sourceLng": 113.93846
+    },
+    "stop-7cbb217137": {
+      "id": "stop-7cbb217137",
+      "rawName": "应人石路口",
+      "normalizedName": "应人石路口",
+      "aliases": [
+        "应人石路口"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "应人石路口, 深圳市, 广东省",
+      "lat": 22.6425688,
+      "lng": 113.9225391,
+      "confidence": 0.951,
+      "status": "resolved",
+      "displayName": "应人石路口, 松白路辅路, 应人石, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8944149741,
+      "candidateCount": 1,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-ef8d066428": {
+      "id": "stop-ef8d066428",
+      "rawName": "九祥岭",
+      "normalizedName": "九祥岭",
+      "aliases": [
+        "九祥岭"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "九祥岭, 深圳市, 广东省",
+      "lat": 22.5872314,
+      "lng": 113.951849,
+      "confidence": 0.924,
+      "status": "resolved",
+      "displayName": "九祥岭村, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "way",
+      "osmId": 237807338,
+      "candidateCount": 8,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-7976e9711e": {
+      "id": "stop-7976e9711e",
+      "rawName": "茶光公交站台(1)",
+      "normalizedName": "茶光公交站",
+      "aliases": [
+        "茶光公交站台(1)"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "茶光, 深圳市, 广东省",
+      "lat": 22.5771019,
+      "lng": 113.9494436,
+      "confidence": 0.988,
+      "status": "resolved",
+      "displayName": "茶光, 沙河西路, 西丽, 西丽街道, 南山区, 深圳市, 广东省, 518000, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 9062205659,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    },
+    "stop-c23be849e4": {
+      "id": "stop-c23be849e4",
+      "rawName": "大冲站",
+      "normalizedName": "大冲站",
+      "aliases": [
+        "大冲站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "大冲站",
+      "lat": 22.5446779,
+      "lng": 113.952021,
+      "confidence": 1,
+      "status": "resolved",
+      "displayName": null,
+      "provider": "manual",
+      "osmType": null,
+      "osmId": null,
+      "candidateCount": 1,
+      "reason": "user-provided-coordinate",
+      "sourceProvider": "Gaode",
+      "sourceCoordinateSystem": "GCJ-02",
+      "sourceLat": 22.54168,
+      "sourceLng": 113.95691
+    },
+    "stop-9728fe7aff": {
+      "id": "stop-9728fe7aff",
+      "rawName": "官田地铁站",
+      "normalizedName": "官田地铁站",
+      "aliases": [
+        "官田地铁站"
+      ],
+      "expectedCities": [
+        "深圳"
+      ],
+      "query": "官田地铁站, 深圳市, 广东省",
+      "lat": 22.6860396,
+      "lng": 113.9450866,
+      "confidence": 0.949,
+      "status": "resolved",
+      "displayName": "官田地铁站, 石岩北环路, 元径, 石岩街道, 宝安区, 深圳市, 广东省, 518100, 中国",
+      "provider": "Nominatim",
+      "osmType": "node",
+      "osmId": 8948115625,
+      "candidateCount": 2,
+      "reason": "accepted-by-name-region-score",
+      "sourceProvider": null,
+      "sourceCoordinateSystem": null,
+      "sourceLat": null,
+      "sourceLng": null
+    }
+  }
+}
